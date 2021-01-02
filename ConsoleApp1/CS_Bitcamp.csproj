@@ -15,6 +15,7 @@
     <Compile Remove="_07_EnumeratedType1.cs" />
     <Compile Remove="_08_If.cs" />
     <Compile Remove="_09_switchCase.cs" />
+    <Compile Remove="_10_While.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -27,6 +28,7 @@
     <None Include="_07_EnumeratedType1.cs" />
     <None Include="_08_If.cs" />
     <None Include="_09_switchCase.cs" />
+    <None Include="_10_While.cs" />
   </ItemGroup>
 
 </Project>
