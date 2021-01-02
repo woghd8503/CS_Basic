@@ -18,6 +18,11 @@
     <Compile Remove="_10_While.cs" />
     <Compile Remove="_11_doWhile.cs" />
     <Compile Remove="_12_for.cs" />
+    <Compile Remove="_13_Foreach.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="_13_Foreach.cs" />
   </ItemGroup>
 
   <ItemGroup>
