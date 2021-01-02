@@ -8,11 +8,21 @@
   <ItemGroup>
     <Compile Remove="_01_Namespace.cs" />
     <Compile Remove="_02_Using.cs" />
+    <Compile Remove="_03_Boxing_Unboxing.cs" />
+    <Compile Remove="_04_Stucture.cs" />
+    <Compile Remove="_05_Structor.cs" />
+    <Compile Remove="_06_EnumeratedType.cs" />
+    <Compile Remove="_07_EnumeratedType1.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="_01_Namespace.cs" />
     <None Include="_02_Using.cs" />
+    <None Include="_03_Boxing_Unboxing.cs" />
+    <None Include="_04_Stucture.cs" />
+    <None Include="_05_Structor.cs" />
+    <None Include="_06_EnumeratedType.cs" />
+    <None Include="_07_EnumeratedType1.cs" />
   </ItemGroup>
 
 </Project>
