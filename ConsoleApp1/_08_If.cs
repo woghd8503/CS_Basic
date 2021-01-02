@@ -9,7 +9,9 @@ namespace CS_Bitcamp
         static void Main(string[] args)
         {
             Console.WriteLine("원하시는 숫자를 입력하세요: ");
-            int i = Console.Read();
+
+            string j = Console.ReadLine();
+            int i = Convert.ToInt32(j);
 
             if (i % 2 == 0)
                 Console.WriteLine("i는 짝수 입니다.");
