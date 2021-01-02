@@ -7,10 +7,12 @@
 
   <ItemGroup>
     <Compile Remove="_01_Namespace.cs" />
+    <Compile Remove="_02_Using.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="_01_Namespace.cs" />
+    <None Include="_02_Using.cs" />
   </ItemGroup>
 
 </Project>
