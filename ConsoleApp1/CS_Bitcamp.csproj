@@ -19,6 +19,7 @@
     <Compile Remove="_11_doWhile.cs" />
     <Compile Remove="_12_for.cs" />
     <Compile Remove="_13_Foreach.cs" />
+    <Compile Remove="_14_Foreach1.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -38,6 +39,7 @@
     <None Include="_10_While.cs" />
     <None Include="_11_DoWhile.cs" />
     <None Include="_12_For.cs" />
+    <None Include="_14_Foreach1.cs" />
   </ItemGroup>
 
 </Project>
