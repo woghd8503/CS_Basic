@@ -16,6 +16,8 @@
     <Compile Remove="_08_If.cs" />
     <Compile Remove="_09_switchCase.cs" />
     <Compile Remove="_10_While.cs" />
+    <Compile Remove="_11_doWhile.cs" />
+    <Compile Remove="_12_for.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -29,6 +31,8 @@
     <None Include="_08_If.cs" />
     <None Include="_09_switchCase.cs" />
     <None Include="_10_While.cs" />
+    <None Include="_11_doWhile.cs" />
+    <None Include="_12_for.cs" />
   </ItemGroup>
 
 </Project>
