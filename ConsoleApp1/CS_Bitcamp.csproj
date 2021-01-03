@@ -26,6 +26,8 @@
     <Compile Remove="_18_Object.cs" />
     <Compile Remove="_19_String.cs" />
     <Compile Remove="_20_String1.cs" />
+    <Compile Remove="_21_String2.cs" />
+    <Compile Remove="_22_StringBuilder.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -52,6 +54,8 @@
     <None Include="_18_Object.cs" />
     <None Include="_19_String.cs" />
     <None Include="_20_String1.cs" />
+    <None Include="_21_String2.cs" />
+    <None Include="_22_StringBuilder.cs" />
   </ItemGroup>
 
 </Project>
