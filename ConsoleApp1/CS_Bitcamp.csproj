@@ -24,6 +24,7 @@
     <Compile Remove="_16_Break.cs" />
     <Compile Remove="_17_Continue.cs" />
     <Compile Remove="_18_Object.cs" />
+    <Compile Remove="_19_String.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -48,6 +49,7 @@
     <None Include="_16_Break.cs" />
     <None Include="_17_Continue.cs" />
     <None Include="_18_Object.cs" />
+    <None Include="_19_String.cs" />
   </ItemGroup>
 
 </Project>
