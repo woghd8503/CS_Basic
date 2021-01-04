@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -28,6 +28,16 @@
     <Compile Remove="_20_String1.cs" />
     <Compile Remove="_21_String2.cs" />
     <Compile Remove="_22_StringBuilder.cs" />
+    <Compile Remove="_23_ Array.cs" />
+    <Compile Remove="_24_Array1.cs" />
+    <Compile Remove="_25_Two_dimensional_array.cs" />
+    <Compile Remove="_26_Collection_ArrayList.cs" />
+    <Compile Remove="_27_Collection_HashTable.cs" />
+    <Compile Remove="_28_Collection_Stack.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="_28_Collection_Stack.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -56,6 +66,11 @@
     <None Include="_20_String1.cs" />
     <None Include="_21_String2.cs" />
     <None Include="_22_StringBuilder.cs" />
+    <None Include="_23_ Array.cs" />
+    <None Include="_24_Array1.cs" />
+    <None Include="_25_Two_dimensional_array.cs" />
+    <None Include="_26_Collection_ArrayList.cs" />
+    <None Include="_27_Collection_HashTable.cs" />
   </ItemGroup>
 
 </Project>
