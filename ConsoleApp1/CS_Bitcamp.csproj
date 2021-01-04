@@ -37,6 +37,7 @@
     <Compile Remove="_29_Collection_Queue.cs" />
     <Compile Remove="_30_Collection_DateTime.cs" />
     <Compile Remove="_31_Collection_Stopwatch.cs" />
+    <Compile Remove="_32_Collection_Random.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -77,6 +78,7 @@
     <None Include="_29_Collection_Queue.cs" />
     <None Include="_30_Collection_DateTime.cs" />
     <None Include="_31_Collection_Stopwatch.cs" />
+    <None Include="_32_Collection_Random.cs" />
   </ItemGroup>
 
 </Project>
