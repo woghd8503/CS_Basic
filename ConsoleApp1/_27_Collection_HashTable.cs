@@ -14,6 +14,7 @@ namespace CS_Bitcamp
             ht.Add("girl", "소녀");
             ht["school"] = "학교";
             Console.WriteLine(ht["boy"]);
+            Console.WriteLine(ht["girl"]);
         }
     }
 }
