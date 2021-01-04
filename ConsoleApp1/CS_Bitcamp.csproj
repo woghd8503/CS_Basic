@@ -40,6 +40,7 @@
     <Compile Remove="_32_Collection_Random.cs" />
     <Compile Remove="_33_Collection_Math.cs" />
     <Compile Remove="_34_Method.cs" />
+    <Compile Remove="_35_Method_Overloading.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -83,6 +84,7 @@
     <None Include="_32_Collection_Random.cs" />
     <None Include="_33_Collection_Math.cs" />
     <None Include="_34_Method.cs" />
+    <None Include="_35_Method_Overloading.cs" />
   </ItemGroup>
 
 </Project>
