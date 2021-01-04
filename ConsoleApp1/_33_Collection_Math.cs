@@ -18,4 +18,4 @@ namespace CS_Bitcamp
     }
 }
 
-ㅊ
+// Collection_Random 난수로 여러군데 * 출력
