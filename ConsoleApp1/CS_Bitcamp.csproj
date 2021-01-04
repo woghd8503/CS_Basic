@@ -35,6 +35,7 @@
     <Compile Remove="_27_Collection_HashTable.cs" />
     <Compile Remove="_28_Collection_Stack.cs" />
     <Compile Remove="_29_Collection_Queue.cs" />
+    <Compile Remove="_30_Collection_DateTime.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -73,6 +74,7 @@
     <None Include="_26_Collection_ArrayList.cs" />
     <None Include="_28_Collection_Stack.cs" />
     <None Include="_29_Collection_Queue.cs" />
+    <None Include="_30_Collection_DateTime.cs" />
   </ItemGroup>
 
 </Project>
