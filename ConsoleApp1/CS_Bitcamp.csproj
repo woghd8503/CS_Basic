@@ -32,12 +32,12 @@
     <Compile Remove="_24_Array1.cs" />
     <Compile Remove="_25_Two_dimensional_array.cs" />
     <Compile Remove="_26_Collection_ArrayList.cs" />
-    <Compile Remove="_28_Collection_Stack.cs" />
+    <Compile Remove="_27_Collection_HashTable.cs" />
     <Compile Remove="_29_Collection_Queue.cs" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="_28_Collection_Stack.cs" />
+    <None Include="_27_Collection_HashTable.cs" />
   </ItemGroup>
 
   <ItemGroup>

@@ -13,7 +13,9 @@ namespace CS_Bitcamp
             st.Push(1);
             st.Push(2);
             st.Push(3);
+            st.Push(4);
 
+            Console.WriteLine(st.Pop());
             Console.WriteLine(st.Pop());
             Console.WriteLine(st.Pop());
             Console.WriteLine(st.Pop());
