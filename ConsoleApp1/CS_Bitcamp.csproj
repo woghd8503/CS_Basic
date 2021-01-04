@@ -39,6 +39,7 @@
     <Compile Remove="_31_Collection_Stopwatch.cs" />
     <Compile Remove="_32_Collection_Random.cs" />
     <Compile Remove="_33_Collection_Math.cs" />
+    <Compile Remove="_34_Method.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -81,6 +82,7 @@
     <None Include="_31_Collection_Stopwatch.cs" />
     <None Include="_32_Collection_Random.cs" />
     <None Include="_33_Collection_Math.cs" />
+    <None Include="_34_Method.cs" />
   </ItemGroup>
 
 </Project>
