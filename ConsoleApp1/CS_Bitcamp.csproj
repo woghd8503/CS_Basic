@@ -44,6 +44,7 @@
     <Compile Remove="_36_Defualt_Parameters.cs" />
     <Compile Remove="_37_Property.cs" />
     <Compile Remove="_38_Property1.cs" />
+    <Compile Remove="_39_Overloading.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -91,6 +92,7 @@
     <None Include="_36_Defualt_Parameters.cs" />
     <None Include="_37_Property.cs" />
     <None Include="_38_Property1.cs" />
+    <None Include="_39_Overloading.cs" />
   </ItemGroup>
 
 </Project>
