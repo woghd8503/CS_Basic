@@ -46,6 +46,7 @@
     <Compile Remove="_38_Property1.cs" />
     <Compile Remove="_39_Operator_Overloading.cs" />
     <Compile Remove="_40_Operator_Overloading1.cs" />
+    <Compile Remove="_41_Operator_Overloading2.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -95,6 +96,7 @@
     <None Include="_38_Property1.cs" />
     <None Include="_39_Operator_Overloading.cs" />
     <None Include="_40_Operator_Overloading1.cs" />
+    <None Include="_41_Operator_Overloading2.cs" />
   </ItemGroup>
 
 </Project>
