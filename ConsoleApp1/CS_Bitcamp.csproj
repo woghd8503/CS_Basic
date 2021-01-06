@@ -54,6 +54,8 @@
     <Compile Remove="_46_Constructor.cs" />
     <Compile Remove="_47_Constructor1.cs" />
     <Compile Remove="_48_Destructor.cs" />
+    <Compile Remove="_49_Static_member_variable.cs" />
+    <Compile Remove="_50_Const_Member.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -108,9 +110,11 @@
     <None Include="_43_Operator_Overloading4.cs" />
     <None Include="_44_Class.cs" />
     <None Include="_45_Class_Partial.cs" />
+    <None Include="_49_Static_member_variable.cs" />
     <None Include="_46_Constructor.cs" />
     <None Include="_47_Constructor1.cs" />
     <None Include="_48_Destructor.cs" />
+    <None Include="_50_Const_Member.cs" />
   </ItemGroup>
 
 </Project>
