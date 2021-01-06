@@ -32,7 +32,7 @@ namespace CS_Bitcamp
         }
     }
     
-    class _42_Operator_Overloading
+    class _42_Operator_Overloading3
     {
         static void Main()
         {

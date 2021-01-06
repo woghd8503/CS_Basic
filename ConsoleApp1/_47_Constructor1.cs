@@ -38,4 +38,11 @@ namespace CS_Bitcamp
 }
 
 // 위의 예제는 생성자가 2개 있습니다.
-// public Student(string aName, int aAge)
+// public Student(string aName, int aAge) : this(aName)
+// 여기서 : this (aName) 는 다른 생성자를 호출하여 초기화하는 것입니다.
+
+// Main에서 Student kim = new Student("김가기", 25); 코딩하면 매개변수가 일치하는 아래의
+// 생성자가 호출되게 됩니다.
+// public Student(string aName, int Age) : this(aName)
+// { Name = aName; Age = 1; }
+// 이 생성자의 호출이 완료된 후에 Age = aAge; 로 진행되게 됩니다.

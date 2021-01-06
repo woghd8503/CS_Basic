@@ -47,6 +47,12 @@
     <Compile Remove="_39_Operator_Overloading.cs" />
     <Compile Remove="_40_Operator_Overloading1.cs" />
     <Compile Remove="_41_Operator_Overloading2.cs" />
+    <Compile Remove="_42_Operator_Overloading3.cs" />
+    <Compile Remove="_43_Operator_Overloading4.cs" />
+    <Compile Remove="_44_Class.cs" />
+    <Compile Remove="_45_Class_Partial.cs" />
+    <Compile Remove="_46_Constructor.cs" />
+    <Compile Remove="_47_Constructor1.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -97,6 +103,12 @@
     <None Include="_39_Operator_Overloading.cs" />
     <None Include="_40_Operator_Overloading1.cs" />
     <None Include="_41_Operator_Overloading2.cs" />
+    <None Include="_42_Operator_Overloading3.cs" />
+    <None Include="_43_Operator_Overloading4.cs" />
+    <None Include="_44_Class.cs" />
+    <None Include="_45_Class_Partial.cs" />
+    <None Include="_46_Constructor.cs" />
+    <None Include="_47_Constructor1.cs" />
   </ItemGroup>
 
 </Project>
