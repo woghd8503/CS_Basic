@@ -58,7 +58,7 @@
     <Compile Remove="_50_Const_Member.cs" />
     <Compile Remove="_51_Readonly.cs" />
     <Compile Remove="_52_InternalType.cs" />
-    <Compile Remove="_53_Inheritance.cs" />
+    <Compile Remove="_53_Inheritance_Is_a.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -120,7 +120,7 @@
     <None Include="_50_Const_Member.cs" />
     <None Include="_51_Readonly.cs" />
     <None Include="_52_InternalType.cs" />
-    <None Include="_53_Inheritance.cs" />
+    <None Include="_53_Inheritance_Is_a.cs" />
   </ItemGroup>
 
 </Project>
