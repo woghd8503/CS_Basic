@@ -60,6 +60,11 @@
     <Compile Remove="_52_InternalType.cs" />
     <Compile Remove="_53_Inheritance_Is_a.cs" />
     <Compile Remove="_54_Inheritance_has_a.cs" />
+    <Compile Remove="_55_Inheritance_parentsClass_to_childClass.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="_55_Inheritance_parentsClass_to_childClass.cs" />
   </ItemGroup>
 
   <ItemGroup>
