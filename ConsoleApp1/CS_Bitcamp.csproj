@@ -61,6 +61,7 @@
     <Compile Remove="_53_Inheritance_Is_a.cs" />
     <Compile Remove="_54_Inheritance_has_a.cs" />
     <Compile Remove="_55_Inheritance_parentsClass_to_childClass.cs" />
+    <Compile Remove="_56_Inheritance_is.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -128,6 +129,7 @@
     <None Include="_52_InternalType.cs" />
     <None Include="_53_Inheritance_Is_a.cs" />
     <None Include="_54_Inheritance_has_a.cs" />
+    <None Include="_56_Inheritance_is.cs" />
   </ItemGroup>
 
 </Project>
