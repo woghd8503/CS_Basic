@@ -64,6 +64,7 @@
     <Compile Remove="_56_Inheritance_as.cs" />
     <Compile Remove="_56_Inheritance_is.cs" />
     <Compile Remove="_57_Inheritance_hide_member.cs" />
+    <Compile Remove="_58_Inheritance_hide_member1.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -134,6 +135,7 @@
     <None Include="_56_Inheritance_as.cs" />
     <None Include="_56_Inheritance_is.cs" />
     <None Include="_57_Inheritance_hide_member.cs" />
+    <None Include="_58_Inheritance_hide_member1.cs" />
   </ItemGroup>
 
 </Project>
