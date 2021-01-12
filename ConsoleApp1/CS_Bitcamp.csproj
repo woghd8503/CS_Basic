@@ -67,6 +67,7 @@
     <Compile Remove="_58_Inheritance_hide_member1.cs" />
     <Compile Remove="_59_Inheritance_virtual_override.cs" />
     <Compile Remove="_60_Polymorphism.cs" />
+    <Compile Remove="_61_Abstract_Class.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -140,6 +141,7 @@
     <None Include="_58_Inheritance_hide_member1.cs" />
     <None Include="_59_Inheritance_virtual_override.cs" />
     <None Include="_60_Polymorphism.cs" />
+    <None Include="_61_Abstract_Class.cs" />
   </ItemGroup>
 
 </Project>
