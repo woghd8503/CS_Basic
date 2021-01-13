@@ -69,6 +69,7 @@
     <Compile Remove="_60_Polymorphism.cs" />
     <Compile Remove="_61_Abstract_Class.cs" />
     <Compile Remove="_62_Sealed_Method.cs" />
+    <Compile Remove="_63_Static_Class.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -144,6 +145,7 @@
     <None Include="_60_Polymorphism.cs" />
     <None Include="_61_Abstract_Class.cs" />
     <None Include="_62_Sealed_Method.cs" />
+    <None Include="_63_Static_Class.cs" />
   </ItemGroup>
 
 </Project>
