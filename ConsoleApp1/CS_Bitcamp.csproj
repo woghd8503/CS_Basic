@@ -68,6 +68,7 @@
     <Compile Remove="_59_Inheritance_virtual_override.cs" />
     <Compile Remove="_60_Polymorphism.cs" />
     <Compile Remove="_61_Abstract_Class.cs" />
+    <Compile Remove="_62_Sealed_Method.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -142,6 +143,7 @@
     <None Include="_59_Inheritance_virtual_override.cs" />
     <None Include="_60_Polymorphism.cs" />
     <None Include="_61_Abstract_Class.cs" />
+    <None Include="_62_Sealed_Method.cs" />
   </ItemGroup>
 
 </Project>
