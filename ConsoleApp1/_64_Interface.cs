@@ -2,48 +2,71 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CS_Bitcamp
+interface ICharacter
 {
-    interface ICharacter
-    {
-        void Move();
-        void Attack();
-        void Die();
-    }
-    class Warrior : ICharacter
-    {
-        public void Move()
-        { Console.WriteLine("전사 - 거침없이 쿵쿵쿵"); }
-        public void Attack()
-        { Console.WriteLine("전사 - 대검을 휙");}
-        public void Die()
-        { Console.WriteLine("전사 - 으와악"); }
-    }
-    
-    class Wizard : ICharacter
-    {
-        public void Move()
-        { Console.WriteLine("마법사 - 슈우욱 나른다"); }
-        public void Attack()
-        { Console.WriteLine("마법사 - 파이어볼"); }
-        public void Die()
-        { Console.WriteLine("마법사 - 아아악"); }
-    }
+    void Move();
+    void Attack();
+    void Die();
+}
+class Warrior : ICharacter
+{
+    public void Move()
+    { Console.WriteLine("전사 - 거침없이 쿵쿵쿵"); }
+    public void Attack()
+    { Console.WriteLine("전사 - 대검을 휙"); }
+    public void Die()
+    { Console.WriteLine("전사 - 으와악"); }
+}
 
-    class Kight : ICharacter
+class Wizard : ICharacter
+{
+    public void Move()
+    { Console.WriteLine("마법사 - 슈우욱 나른다"); }
+    public void Attack()
+    { Console.WriteLine("마법사 - 파이어볼"); }
+    public void Die()
+    { Console.WriteLine("마법사 - 아아악"); }
+}
+
+class Kight : ICharacter
+{
+    public void Move()
     {
-        public void Move()
+        Console.WriteLine("기사 - 말타고 다가닥");
+    }
+    public void Attack()
+    {
+        Console.WriteLine("기사 - 창을 쉐엑");
+    }
+    public void Die()
+    {
+        Console.WriteLine("기사 - 으윽");
+    }
+}
+class _64_Interface
+{
+    static void CharacterRun(params ICharacter[] ic)
+    {
+        for (int i = 0; i < ic.Length; i++)
         {
-            Console.WriteLine("");
+            ic[i].Attack();
+            ic[i].Move();
+            ic[i].Die();
         }
     }
-    class _64_Interface
+
+    static void Main()
     {
+        ICharacter[] arChar =
+            { new Warrior(), new Wizard(), new Kight()};
+
+        CharacterRun(ic);
     }
 }
 
+
 // 인터페이스 의미
-// 우리는 상속에서 일반 클래스에서 virtual을 이요한 재정의와 abstract를 이용한 
+// 우리는 상속에서 일반 클래스에서 virtual을 이용한 재정의와 abstract를 이용한 
 // 추상 클래스를 제작하였습니다.
 
 // 일반 클래스에서의 virtual 메서드는 미리 구현해 놓기는 했지만, 재정의 할 가능성이
