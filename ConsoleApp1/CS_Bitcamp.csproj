@@ -72,6 +72,7 @@
     <Compile Remove="_63_Static_Class.cs" />
     <Compile Remove="_64_Interface.cs" />
     <Compile Remove="_65_Interface_Inheritance.cs" />
+    <Compile Remove="_66_Delegate.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -150,6 +151,7 @@
     <None Include="_63_Static_Class.cs" />
     <None Include="_64_Interface.cs" />
     <None Include="_65_Interface_Inheritance.cs" />
+    <None Include="_66_Delegate.cs" />
   </ItemGroup>
 
 </Project>
