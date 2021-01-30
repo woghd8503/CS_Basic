@@ -86,6 +86,7 @@
     <Compile Remove="_77_Generic_Constraint.cs" />
     <Compile Remove="_78_GenericList.cs" />
     <Compile Remove="_79_Generic_Queue.cs" />
+    <Compile Remove="_80_Generic_Stack.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -178,6 +179,7 @@
     <None Include="_77_Generic_Constraint.cs" />
     <None Include="_78_GenericList.cs" />
     <None Include="_79_Generic_Queue.cs" />
+    <None Include="_80_Generic_Stack.cs" />
   </ItemGroup>
 
 </Project>
