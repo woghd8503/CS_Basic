@@ -93,7 +93,7 @@
     <Compile Remove="_79_Generic_Queue.cs" />
     <Compile Remove="_80_Generic_Stack.cs" />
     <Compile Remove="_81_Generic_Dictionary.cs" />
-    <Compile Remove="_82_Pointer.cs" />
+    <Compile Remove="_82_Structure_Pointer.cs" />
     <Compile Remove="_83_PointerClass.cs" />
   </ItemGroup>
 
@@ -189,7 +189,7 @@
     <None Include="_79_Generic_Queue.cs" />
     <None Include="_80_Generic_Stack.cs" />
     <None Include="_81_Generic_Dictionary.cs" />
-    <None Include="_82_Pointer.cs" />
+    <None Include="_82_Structure_Pointer.cs" />
   </ItemGroup>
 
   <ItemGroup>
