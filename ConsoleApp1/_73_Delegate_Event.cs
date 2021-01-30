@@ -18,7 +18,7 @@ namespace CS_Bitcamp
         public event Notice OnComplete;
         public void Send()
         {
-            for(int i =0; i < 100; i += 10)
+            for(int i = 0; i < 100; i += 10)
             {
                 Console.WriteLine(i + "% 전송중");
                 System.Threading.Thread.Sleep(200);
