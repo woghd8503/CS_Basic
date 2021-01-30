@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CS_Bitcamp
 {
-    class _69_Delegate3
+    class _69_Delegate2
     {
         public static void SendPacket(int nFile)
         {
@@ -20,7 +20,7 @@ namespace CS_Bitcamp
     {
         static void Main()
         {
-            _69_Delegate3.SendPacket(10);
+            _69_Delegate2.SendPacket(10);
             Console.WriteLine("모든 패킷을 전송했습니다.");
         }
     }
