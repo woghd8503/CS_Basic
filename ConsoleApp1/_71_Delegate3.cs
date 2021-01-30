@@ -24,7 +24,7 @@ namespace CS_Bitcamp
     {
         public static bool Progress(int nFile)
         {
-            Console.WriteLine("{0}번째 패킷 전송중...(최소시 Esc).", nFile + 1);
+            Console.WriteLine("{0}번째 패킷 전송중...(취소시 Esc).", nFile + 1);
             if (Console.KeyAvailable)
             {
                 ConsoleKeyInfo cki;
