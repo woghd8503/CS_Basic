@@ -73,6 +73,19 @@
     <Compile Remove="_64_Interface.cs" />
     <Compile Remove="_65_Interface_Inheritance.cs" />
     <Compile Remove="_66_Delegate.cs" />
+    <Compile Remove="_67_Delegate1.cs" />
+    <Compile Remove="_68_Delegate1.cs" />
+    <Compile Remove="_69_Delegate2.cs" />
+    <Compile Remove="_70_Delegate2.cs" />
+    <Compile Remove="_71_Delegate3.cs" />
+    <Compile Remove="_72_Delegate4.cs" />
+    <Compile Remove="_73_Delegate_Event.cs" />
+    <Compile Remove="_74_Delegate_AnonymousMethod.cs" />
+    <Compile Remove="_75_Generic.cs" />
+    <Compile Remove="_76_Method_Generic.cs" />
+    <Compile Remove="_77_Generic_Constraint.cs" />
+    <Compile Remove="_78_GenericList.cs" />
+    <Compile Remove="_79_Generic_Queue.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -152,6 +165,19 @@
     <None Include="_64_Interface.cs" />
     <None Include="_65_Interface_Inheritance.cs" />
     <None Include="_66_Delegate.cs" />
+    <None Include="_67_Delegate1.cs" />
+    <None Include="_68_Delegate1.cs" />
+    <None Include="_69_Delegate2.cs" />
+    <None Include="_70_Delegate2.cs" />
+    <None Include="_71_Delegate3.cs" />
+    <None Include="_72_Delegate4.cs" />
+    <None Include="_73_Delegate_Event.cs" />
+    <None Include="_74_Delegate_AnonymousMethod.cs" />
+    <None Include="_75_Generic.cs" />
+    <None Include="_76_Method_Generic.cs" />
+    <None Include="_77_Generic_Constraint.cs" />
+    <None Include="_78_GenericList.cs" />
+    <None Include="_79_Generic_Queue.cs" />
   </ItemGroup>
 
 </Project>
