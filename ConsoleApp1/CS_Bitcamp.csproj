@@ -5,6 +5,11 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <PlatformTarget>x86</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
   <ItemGroup>
     <Compile Remove="_01_Namespace.cs" />
     <Compile Remove="_02_Using.cs" />
@@ -87,6 +92,9 @@
     <Compile Remove="_78_GenericList.cs" />
     <Compile Remove="_79_Generic_Queue.cs" />
     <Compile Remove="_80_Generic_Stack.cs" />
+    <Compile Remove="_81_Generic_Dictionary.cs" />
+    <Compile Remove="_82_Pointer.cs" />
+    <Compile Remove="_83_PointerClass.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -180,6 +188,12 @@
     <None Include="_78_GenericList.cs" />
     <None Include="_79_Generic_Queue.cs" />
     <None Include="_80_Generic_Stack.cs" />
+    <None Include="_81_Generic_Dictionary.cs" />
+    <None Include="_82_Pointer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Include="_83_PointerClass.cs" />
   </ItemGroup>
 
 </Project>
