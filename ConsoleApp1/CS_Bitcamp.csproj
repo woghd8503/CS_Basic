@@ -97,6 +97,7 @@
     <Compile Remove="_83_Class_pointer.cs" />
     <Compile Remove="_83_PointerClass.cs" />
     <Compile Remove="_84_NullType.cs" />
+    <Compile Remove="_85_Attribute.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -194,6 +195,7 @@
     <None Include="_82_Structure_Pointer.cs" />
     <None Include="_83_Class_pointer.cs" />
     <None Include="_84_NullType.cs" />
+    <None Include="_85_Attribute.cs" />
   </ItemGroup>
 
   <ItemGroup>
