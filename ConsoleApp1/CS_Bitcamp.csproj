@@ -98,6 +98,7 @@
     <Compile Remove="_83_PointerClass.cs" />
     <Compile Remove="_84_NullType.cs" />
     <Compile Remove="_85_Attribute.cs" />
+    <Compile Remove="_86_Implicit coercion.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -196,6 +197,7 @@
     <None Include="_83_Class_pointer.cs" />
     <None Include="_84_NullType.cs" />
     <None Include="_85_Attribute.cs" />
+    <None Include="_86_Implicit coercion.cs" />
   </ItemGroup>
 
   <ItemGroup>
