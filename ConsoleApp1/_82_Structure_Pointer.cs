@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CS_Bitcamp
 {
-    class _82_Pointer
+    class _82_Structure_Pointer
     {
         static void Main()
         {
