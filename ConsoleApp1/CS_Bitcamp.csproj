@@ -99,6 +99,8 @@
     <Compile Remove="_84_NullType.cs" />
     <Compile Remove="_85_Attribute.cs" />
     <Compile Remove="_86_Implicit coercion.cs" />
+    <Compile Remove="_87_Implicit coercion1.cs" />
+    <Compile Remove="_88_initialiser.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -198,6 +200,8 @@
     <None Include="_84_NullType.cs" />
     <None Include="_85_Attribute.cs" />
     <None Include="_86_Implicit coercion.cs" />
+    <None Include="_87_Implicit coercion1.cs" />
+    <None Include="_88_initialiser.cs" />
   </ItemGroup>
 
   <ItemGroup>
