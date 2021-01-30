@@ -96,6 +96,7 @@
     <Compile Remove="_82_Structure_Pointer.cs" />
     <Compile Remove="_83_Class_pointer.cs" />
     <Compile Remove="_83_PointerClass.cs" />
+    <Compile Remove="_84_NullType.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -192,6 +193,7 @@
     <None Include="_81_Generic_Dictionary.cs" />
     <None Include="_82_Structure_Pointer.cs" />
     <None Include="_83_Class_pointer.cs" />
+    <None Include="_84_NullType.cs" />
   </ItemGroup>
 
   <ItemGroup>
