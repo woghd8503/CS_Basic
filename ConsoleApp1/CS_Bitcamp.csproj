@@ -104,6 +104,7 @@
     <Compile Remove="_89_initialiser1.cs" />
     <Compile Remove="_90_AnonymousType.cs" />
     <Compile Remove="_91_AnonymousType1.cs" />
+    <Compile Remove="_92_ExtensionMethods.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -208,6 +209,7 @@
     <None Include="_89_initialiser1.cs" />
     <None Include="_90_AnonymousType.cs" />
     <None Include="_91_AnonymousType1.cs" />
+    <None Include="_92_ExtensionMethods.cs" />
   </ItemGroup>
 
   <ItemGroup>
