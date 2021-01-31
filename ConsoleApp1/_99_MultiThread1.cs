@@ -5,7 +5,7 @@ using System.Threading;
 
 namespace Cs_Bitcamp
 {
-    class _991_MultiThread1
+    class _99_MultiThread1
     {
         static void ThreadProc(object count)
         {
