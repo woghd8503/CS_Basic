@@ -112,6 +112,7 @@
     <Compile Remove="_97_LINQ.cs" />
     <Compile Remove="_98_LINQ1.cs" />
     <Compile Remove="_99_MultiThread.cs" />
+    <Compile Remove="_99_MultiThread1.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -224,6 +225,7 @@
     <None Include="_97_LINQ.cs" />
     <None Include="_98_LINQ1.cs" />
     <None Include="_99_MultiThread.cs" />
+    <None Include="_99_MultiThread1.cs" />
   </ItemGroup>
 
   <ItemGroup>
