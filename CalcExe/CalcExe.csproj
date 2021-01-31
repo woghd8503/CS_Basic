@@ -7,10 +7,12 @@
 
   <ItemGroup>
     <Compile Remove="_99_CalcExe.cs" />
+    <Compile Remove="_99_DLL_Class_Inheritance.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="_99_CalcExe.cs" />
+    <None Include="_99_DLL_Class_Inheritance.cs" />
   </ItemGroup>
 
   <ItemGroup>
