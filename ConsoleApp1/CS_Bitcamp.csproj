@@ -110,6 +110,8 @@
     <Compile Remove="_95_LambadaExpression1.cs" />
     <Compile Remove="_96_LambadaExpression2.cs" />
     <Compile Remove="_97_LINQ.cs" />
+    <Compile Remove="_98_LINQ1.cs" />
+    <Compile Remove="_99_DLL.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -220,6 +222,8 @@
     <None Include="_95_LambadaExpression1.cs" />
     <None Include="_96_LambadaExpression2.cs" />
     <None Include="_97_LINQ.cs" />
+    <None Include="_98_LINQ1.cs" />
+    <None Include="_99_DLL.cs" />
   </ItemGroup>
 
   <ItemGroup>
