@@ -101,6 +101,9 @@
     <Compile Remove="_86_Implicit coercion.cs" />
     <Compile Remove="_87_Implicit coercion1.cs" />
     <Compile Remove="_88_initialiser.cs" />
+    <Compile Remove="_89_initialiser1.cs" />
+    <Compile Remove="_90_AnonymousType.cs" />
+    <Compile Remove="_91_AnonymousType1.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -202,6 +205,9 @@
     <None Include="_86_Implicit coercion.cs" />
     <None Include="_87_Implicit coercion1.cs" />
     <None Include="_88_initialiser.cs" />
+    <None Include="_89_initialiser1.cs" />
+    <None Include="_90_AnonymousType.cs" />
+    <None Include="_91_AnonymousType1.cs" />
   </ItemGroup>
 
   <ItemGroup>
