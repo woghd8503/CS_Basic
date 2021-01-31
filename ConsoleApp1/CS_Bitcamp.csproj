@@ -105,6 +105,10 @@
     <Compile Remove="_90_AnonymousType.cs" />
     <Compile Remove="_91_AnonymousType1.cs" />
     <Compile Remove="_92_ExtensionMethods.cs" />
+    <Compile Remove="_93_ExtensionMethods1.cs" />
+    <Compile Remove="_94_LambadaExpression.cs" />
+    <Compile Remove="_95_LambadaExpression1.cs" />
+    <Compile Remove="_96_LambadaExpression2.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -210,6 +214,10 @@
     <None Include="_90_AnonymousType.cs" />
     <None Include="_91_AnonymousType1.cs" />
     <None Include="_92_ExtensionMethods.cs" />
+    <None Include="_93_ExtensionMethods1.cs" />
+    <None Include="_94_LambadaExpression.cs" />
+    <None Include="_95_LambadaExpression1.cs" />
+    <None Include="_96_LambadaExpression2.cs" />
   </ItemGroup>
 
   <ItemGroup>
