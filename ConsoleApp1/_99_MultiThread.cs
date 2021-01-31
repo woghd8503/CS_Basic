@@ -17,7 +17,7 @@ namespace Cs_Bitcamp
             }
             Console.WriteLine("작업 스레드 종료");
         }
-        // 주 스레드
+        // main 스레드
         static void Main()
         {
             Thread T = new Thread(new ThreadStart(ThreadProc));
