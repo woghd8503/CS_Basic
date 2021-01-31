@@ -2,7 +2,7 @@
 
 namespace CalcLib
 {
-    public class _99_DLL
+    public class IntCalc
     {
         public static int Add(int a, int b) { return a + b; }
         public static int Sub(int a, int b) { return a - b; }
